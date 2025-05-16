@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ready to build<br>📚 I'm currently learning JS<br>🎯 Goals: Learn new frameworks.<br>                 Improve problem-solving.<br>                 Collaborate effectively.<br>                 Explore backend dev<br>🎲 Fun fact: ...i love networking(meeting new people and learning new things)</p>
+<p align="left">✨ Ready to build<br>📚 I'm currently learning JS<br>🎯 Goals: Learn new frameworks.<br>                 Improve problem-solving.<br>                 Collaborate effectively.<br>                 Explore backend dev<br>🎲 Fun fact: ...i love networking(meet new people and learning new things)</p>
 
 ###
 
