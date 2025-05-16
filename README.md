@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  balsit , from NIGERIA, Aspiring software engineer currently navigating the exciting journey of web development, from crafting user interfaces with HTML and CSS to diving into the dynamic world of JavaScript and frontend frameworks. With an eye towards the future, I'm planning to build a solid foundation in backend development, exploring APIs, databases, and authentication to complete myself as a well-rounded software engineer. Excited to connect and learn!</p>
+<p align="left">My name is  Balsit, from NIGERIA, Aspiring software engineer currently navigating the exciting journey of web development, from crafting user interfaces with HTML and CSS to diving into the dynamic world of JavaScript and frontend frameworks. With an eye towards the future, I'm planning to build a solid foundation in backend development as well, exploring APIs, databases, and authentication to complete myself as a well-rounded software engineer. Excited to connect and learn!</p>
 
 ###
 
